@@ -1,0 +1,53 @@
+[
+    {
+        "backgroundImage": "images/moonplain.gif"
+    },
+    {
+        "rectHeight": "10",
+        "rectWidth": "10",
+        "rectXCoord": "-220",
+        "rectYCoord": "70"
+    },
+    {
+        "rectHeight": "5",
+        "rectWidth": "300",
+        "rectXCoord": "-210",
+        "rectYCoord": "65"
+    },
+    {
+        "rectHeight": "50",
+        "rectWidth": "120",
+        "rectXCoord": "90",
+        "rectYCoord": "80"
+    },
+    {
+        "rectHeight": "240",
+        "rectWidth": "5",
+        "rectXCoord": "200",
+        "rectYCoord": "30"
+    },
+    {
+        "rectHeight": "20",
+        "rectWidth": "20",
+        "rectXCoord": "195",
+        "rectYCoord": "-205"
+    },
+    {
+        "text": "eagle",
+        "textXCoord": "195",
+        "textYCoord": "-235",
+        "textColor": "white"
+    },
+    {
+        "text": "rock field",
+        "textXCoord": "90",
+        "textYCoord": "90",
+        "textColor": "white"
+    },
+    {
+        "text": "landing crater",
+        "textXCoord": "-220",
+        "textYCoord": "80",
+        "textColor": "white"
+    }
+]

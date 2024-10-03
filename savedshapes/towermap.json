@@ -1,0 +1,47 @@
+[
+    {
+        "backgroundImage": "images/ezgif.com-resize.gif"
+    },
+    {
+        "rectHeight": "400",
+        "rectWidth": "20",
+        "rectXCoord": "40",
+        "rectYCoord": "160"
+    },
+    {
+        "rectHeight": "20",
+        "rectWidth": "200",
+        "rectXCoord": "0",
+        "rectYCoord": "-220"
+    },
+    {
+        "rectHeight": "50",
+        "rectWidth": "100",
+        "rectXCoord": "180",
+        "rectYCoord": "-220"
+    },
+    {
+        "rectHeight": "50",
+        "rectWidth": "100",
+        "rectXCoord": "-40",
+        "rectYCoord": "-220"
+    },
+    {
+        "text": "tower",
+        "textXCoord": "60",
+        "textYCoord": "160",
+        "textColor": "black"
+    },
+    {
+        "text": "elevator bay",
+        "textXCoord": "-60",
+        "textYCoord": "-215",
+        "textColor": "white"
+    },
+    {
+        "text": "outside pad",
+        "textXCoord": "200",
+        "textYCoord": "-215",
+        "textColor": "black"
+    }
+]

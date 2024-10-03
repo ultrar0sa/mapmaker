@@ -1,0 +1,47 @@
+[
+    {
+        "backgroundImage": ""
+    },
+    {
+        "rectHeight": "100",
+        "rectWidth": "300",
+        "rectXCoord": "-50",
+        "rectYCoord": "200"
+    },
+    {
+        "rectHeight": "200",
+        "rectWidth": "40",
+        "rectXCoord": "0",
+        "rectYCoord": "100"
+    },
+    {
+        "rectHeight": "100",
+        "rectWidth": "150",
+        "rectXCoord": "40",
+        "rectYCoord": "0"
+    },
+    {
+        "rectHeight": "40",
+        "rectWidth": "200",
+        "rectXCoord": "-200",
+        "rectYCoord": "-20"
+    },
+    {
+        "text": "main assembly room",
+        "textXCoord": "-40",
+        "textYCoord": "180",
+        "textColor": "black"
+    },
+    {
+        "text": "spacesuits",
+        "textXCoord": "50",
+        "textYCoord": "-20",
+        "textColor": "black"
+    },
+    {
+        "text": "hallway to pad",
+        "textXCoord": "-200",
+        "textYCoord": "-10",
+        "textColor": "black"
+    }
+]

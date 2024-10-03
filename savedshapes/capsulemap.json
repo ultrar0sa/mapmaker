@@ -1,0 +1,53 @@
+[
+    {
+        "backgroundImage": "images/flyinglem.gif"
+    },
+    {
+        "rectHeight": "50",
+        "rectWidth": "150",
+        "rectXCoord": "-60",
+        "rectYCoord": "150"
+    },
+    {
+        "rectHeight": "10",
+        "rectWidth": "90",
+        "rectXCoord": "-150",
+        "rectYCoord": "140"
+    },
+    {
+        "rectHeight": "100",
+        "rectWidth": "40",
+        "rectXCoord": "-190",
+        "rectYCoord": "170"
+    },
+    {
+        "rectHeight": "100",
+        "rectWidth": "10",
+        "rectXCoord": "-180",
+        "rectYCoord": "70"
+    },
+    {
+        "rectHeight": "80",
+        "rectWidth": "120",
+        "rectXCoord": "-200",
+        "rectYCoord": "-30"
+    },
+    {
+        "text": "capsule interior",
+        "textXCoord": "-70",
+        "textYCoord": "160",
+        "textColor": "white"
+    },
+    {
+        "text": "outside capsule door",
+        "textXCoord": "-180",
+        "textYCoord": "180",
+        "textColor": "white"
+    },
+    {
+        "text": "engines",
+        "textXCoord": "-190",
+        "textYCoord": "-50",
+        "textColor": "black"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "backgroundImage": "images/crater.gif"
+    },
+    {
+        "rectHeight": "30",
+        "rectWidth": "30",
+        "rectXCoord": "-100",
+        "rectYCoord": "70"
+    },
+    {
+        "rectHeight": "10",
+        "rectWidth": "220",
+        "rectXCoord": "-70",
+        "rectYCoord": "60"
+    },
+    {
+        "rectHeight": "70",
+        "rectWidth": "50",
+        "rectXCoord": "150",
+        "rectYCoord": "60"
+    },
+    {
+        "rectHeight": "10",
+        "rectWidth": "150",
+        "rectXCoord": "200",
+        "rectYCoord": "30"
+    },
+    {
+        "text": "landing site",
+        "textXCoord": "-100",
+        "textYCoord": "80",
+        "textColor": "black"
+    },
+    {
+        "text": "crater edge",
+        "textXCoord": "150",
+        "textYCoord": "70",
+        "textColor": "black"
+    },
+    {
+        "text": "moon plain",
+        "textXCoord": "300",
+        "textYCoord": "40",
+        "textColor": "black"
+    }
+]
