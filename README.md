@@ -5,3 +5,10 @@
 - text!
 - images!
 - saving and loading!
+
+## to do
+- an actual manual/tutorial
+- dejankify and refactor
+- more shapes
+- full intergration into selene game in order to make updating maps less jank
+- point and click editing (this will never happen)
